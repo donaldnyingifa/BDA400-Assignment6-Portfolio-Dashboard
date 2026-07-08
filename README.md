@@ -14,7 +14,7 @@ This project is the third stage of the three-part portfolio analysis project. It
 
 ## Repository Link
 
-\_\_
+_https://github.com/donaldnyingifa/BDA400-Assignment6-Portfolio-Dashboard_
 
 ## How to Run
 
